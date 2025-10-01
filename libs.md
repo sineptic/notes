@@ -1,0 +1,1 @@
+- [rustc-hash](https://github.com/rust-lang/rustc-hash): speedy, non-cryptographic hashing algorithm
